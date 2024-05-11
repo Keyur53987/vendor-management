@@ -147,7 +147,7 @@ To deploy this project on git
   - The next step ‘Initialize your project with:’ is optional, skip it if you wish to.
   ### Click the ‘Create Reposity’ button ###
 
- ($ git remote add origin https://github.com/bhush-n/vendor_management.git)  ### It will add a new remote origin ###
+ ($ git remote add origin https://github.com/Keyur53987/vendor-management)  ### It will add a new remote origin ###
 
  ($ git branch -M main)  ### It is used to shift to the main branch from master ###
 
@@ -228,9 +228,9 @@ ___
 ```http
 - If you have more questions you can drop a mail on :
 ```
-bhushanch45@gmail.com
+keyurpanchal53987@gmail.com
 ___
 ## Support
 
-For support, email bhushanch45@gmail.com
+For support, email keyurpanchal53987@gmail.com
 
