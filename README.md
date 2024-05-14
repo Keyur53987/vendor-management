@@ -3,27 +3,25 @@
 
 ## Table of contents
 
-[Introduction](https://github.com/bhush-n/vendor_management#introduction)
+[Introduction](https://github.com/Keyur53987/vendor_management#introduction)
 
-[Roadmap](https://github.com/bhush-n/vendor_management#roadmap)
+[Roadmap](https://github.com/Keyur53987/vendor_management#roadmap)
 
-[Features](https://github.com/bhush-n/vendor_management#features)
+[Features](https://github.com/Keyur53987vendor_management#features)
 
-[API References](https://github.com/bhush-n/vendor_management#api-reference)
+[API References](https://github.com/Keyur53987/vendor_management#api-reference)
 
-[Tech Stack](https://github.com/bhush-n/vendor_management#tech-stack)
+[Tech Stack](https://github.com/Keyur53987/vendor_management#tech-stack)
 
-[Installation](https://github.com/bhush-n/vendor_management#installation)
+[Installation](https://github.com/Keyur53987/vendor_management#installation)
 
-[Deployment](https://github.com/bhush-n/vendor_management#deployment)
+[Deployment](https://github.com/Keyur53987/vendor_management#deployment)
 
-[Screenshots](https://github.com/bhush-n/vendor_management#screenshots)
+[Author/Company](https://github.com/Keyur53987/vendor_management#assignement-by)
 
-[Author/Company](https://github.com/bhush-n/vendor_management#assignement-by)
+[FAQ](https://github.com/Keyur53987/vendor_management#faq)
 
-[FAQ](https://github.com/bhush-n/vendor_management#faq)
-
-[Support](https://github.com/bhush-n/vendor_management#support)
+[Support](https://github.com/Keyur53987/vendor_management#support)
 
 ## Introduction
 
