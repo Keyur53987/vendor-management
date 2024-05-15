@@ -3,25 +3,25 @@
 
 ## Table of contents
 
-[Introduction](https://github.com/Keyur53987/vendor_management#introduction)
+[Introduction](https://github.com/Keyur53987/vendor-management#introduction)
 
-[Roadmap](https://github.com/Keyur53987/vendor_management#roadmap)
+[Roadmap](https://github.com/Keyur53987/vendor-management#roadmap)
 
-[Features](https://github.com/Keyur53987vendor_management#features)
+[Features](https://github.com/Keyur53987vendor-management#features)
 
-[API References](https://github.com/Keyur53987/vendor_management#api-reference)
+[API References](https://github.com/Keyur53987/vendor-management#api-reference)
 
-[Tech Stack](https://github.com/Keyur53987/vendor_management#tech-stack)
+[Tech Stack](https://github.com/Keyur53987/vendor-management#tech-stack)
 
-[Installation](https://github.com/Keyur53987/vendor_management#installation)
+[Installation](https://github.com/Keyur53987/vendor-management#installation)
 
-[Deployment](https://github.com/Keyur53987/vendor_management#deployment)
+[Deployment](https://github.com/Keyur53987/vendor-management#deployment)
 
-[Author/Company](https://github.com/Keyur53987/vendor_management#assignement-by)
+[Author/Company](https://github.com/Keyur53987/vendor-management#assignement-by)
 
-[FAQ](https://github.com/Keyur53987/vendor_management#faq)
+[FAQ](https://github.com/Keyur53987/vendor-management#faq)
 
-[Support](https://github.com/Keyur53987/vendor_management#support)
+[Support](https://github.com/Keyur53987/vendor-management#support)
 
 ## Introduction
 
